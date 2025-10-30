@@ -33,6 +33,10 @@ This project was built as part of the **Phase 2 React Code Challenge** to showca
 - `App` holds the cart state.  
 - `App` passes **props** (`cartCount`, `products`, `addToCart`, `removeFromCart`) to child components.  
 - Events (like adding/removing items) bubble up through props functions to update the state in `App`.
+  
+## Screenshot
+Home Page
+![Home Page](./src/assets/screencapture-localhost-3000-2025-10-30-22_57_25.png)
 
 ## Installation & Setup
 
