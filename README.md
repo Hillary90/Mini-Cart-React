@@ -41,7 +41,6 @@ This project was built as part of the **Phase 2 React Code Challenge** to showca
    git clone https://github.com/Hillary90/Mini-Cart-React.git
    cd Mini-Cart-React/
    ```
-1. 
 
 2. Install dependencies
    ```bash
