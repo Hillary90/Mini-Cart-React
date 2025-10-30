@@ -12,7 +12,7 @@ function NavBar({ cartCount }) {
         padding: "1rem 2rem",
       }}
     >
-      <h2>Mini Cart</h2>
+      <h2> Mini Cart</h2>
       <div style={{ fontSize: "1.2rem" }}>
         Cart Items: <strong>{cartCount}</strong>
       </div>
